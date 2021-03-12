@@ -4,7 +4,7 @@
 	<title></title>
 </head><h1 style="color:#7d32a8;"font-size:300%;">My profile</h1>
 <body style="background-color:powderblue;">
-<img src="photo.jpg width="224" height="224"> 
+<img src="photo.jpg" alt="Girl in a jacket" width="224" height="224"> 
 <h2 style="color:Tomato;">Anastasiia Dzhorobaeva
 <br>17 y.o.
 <br>Ala Too Vocational School</h2>
