@@ -16,7 +16,10 @@
 
 <script>
 	
-	    
+	  document.forms[0].onsubmit = function(e){
+        let login = document.getElementById('fname').value;
+        let password = document.getElementById('fpass').value;
+		  
         if ( login === "Anastasiya" && password === "123456789") 
             alert("Welcome");
         else {
